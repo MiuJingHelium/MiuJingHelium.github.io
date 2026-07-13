@@ -47,12 +47,18 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: sing
+    web_url: https://geng.fandom.com/zh/wiki/%E9%B8%A1%E4%BD%A0%E5%A4%AA%E7%BE%8E
+    image_url: https://static.wikia.nocookie.net/geng/images/6/62/%E9%B8%A1%E4%BD%A0%E5%A4%AA%E7%BE%8E.png/revision/latest?cb=20221205055948&path-prefix=zh
+    
+  - name: jump
+    web_url: https://geng.fandom.com/zh/wiki/%E9%B8%A1%E4%BD%A0%E5%A4%AA%E7%BE%8E
+    image_url: https://static.wikia.nocookie.net/geng/images/6/62/%E9%B8%A1%E4%BD%A0%E5%A4%AA%E7%BE%8E.png/revision/latest?cb=20221205055948&path-prefix=zh
+    
+  - name: rap
+    web_url: https://geng.fandom.com/zh/wiki/%E9%B8%A1%E4%BD%A0%E5%A4%AA%E7%BE%8E
+    image_url: https://static.wikia.nocookie.net/geng/images/6/62/%E9%B8%A1%E4%BD%A0%E5%A4%AA%E7%BE%8E.png/revision/latest?cb=20221205055948&path-prefix=zh
+    
+  - name: basketball
+    web_url: https://geng.fandom.com/zh/wiki/%E9%B8%A1%E4%BD%A0%E5%A4%AA%E7%BE%8E
+    image_url: https://static.wikia.nocookie.net/geng/images/6/62/%E9%B8%A1%E4%BD%A0%E5%A4%AA%E7%BE%8E.png/revision/latest?cb=20221205055948&path-prefix=zh
